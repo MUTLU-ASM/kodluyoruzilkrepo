@@ -19,3 +19,4 @@ kod .
 #  Lisans
 [ MIT ](https://github.com/MUTLU-ASM/kodluyoruzilkrepo.gitt)
 ***
+https://avatars.githubusercontent.com/u/30476529?s=280&v=4
